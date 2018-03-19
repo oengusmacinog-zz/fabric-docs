@@ -1,16 +1,28 @@
-.. oens-docs documentation master file, created by
-   sphinx-quickstart on Mon Mar 12 17:08:08 2018.
+.. Office UI Fabric React documentation master file, created by
+   sphinx-quickstart on Tue Mar 13 10:13:49 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to the Docs for Office UI Fabric React
-==============================================
+Office UI Fabric React Docs
+===========================
+
+.. _getting-started:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Getting Started:
 
-   getting-started.md
-   creating-new-components.md
+   configuring-your-environment.md
+   create-a-simple-app.md
+   the-fabric-component.md
+   using-icons.md
+   using-componentref.md
 
+.. _new-components:
 
+.. toctree::
+   :maxdepth: 2
+   :caption: New Components:
+
+   styling.md
+   testing.md
